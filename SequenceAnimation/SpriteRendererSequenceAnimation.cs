@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UBW.SequenceAnimation
+namespace Bubu.UnityUtils.SequenceAnimation
 {
     [RequireComponent(typeof(SpriteRenderer))]
     public class SpriteRendererSequenceAnimation : SequenceAnimation<SpriteRenderer>

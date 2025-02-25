@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace UBW.SequenceAnimation
+namespace Bubu.UnityUtils.SequenceAnimation
 {
     public abstract class SequenceAnimationEditor : Editor
     {

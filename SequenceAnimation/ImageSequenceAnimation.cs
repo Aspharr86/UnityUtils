@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UBW.SequenceAnimation
+namespace Bubu.UnityUtils.SequenceAnimation
 {
     [RequireComponent(typeof(Image))]
     public class ImageSequenceAnimation : SequenceAnimation<Image>

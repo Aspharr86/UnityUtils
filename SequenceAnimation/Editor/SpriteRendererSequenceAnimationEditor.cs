@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace UBW.SequenceAnimation
+namespace Bubu.UnityUtils.SequenceAnimation
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(SpriteRendererSequenceAnimation))]
